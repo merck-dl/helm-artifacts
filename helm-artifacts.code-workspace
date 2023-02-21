@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+		
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": false
+		},
+		"explorer.excludeGitIgnore": false
+	}
+}
