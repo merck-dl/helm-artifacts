@@ -3,7 +3,7 @@ entries:
   ethadapter:
   - apiVersion: v2
     appVersion: 1.0.2
-    created: "2022-12-19T22:15:03.6562072+01:00"
+    created: "2023-02-21T18:07:06.79587+01:00"
     description: A Helm chart for Pharma Ledger Ethereum Adapter Service
     digest: 1fc54511a832a7af4a451b1efb6da14a58d9418206ac679599ed3b1e51c3385e
     icon: https://avatars.githubusercontent.com/u/60230259?s=200&v=4
@@ -15,4 +15,15 @@ entries:
     urls:
     - https://merck-dl.github.io/helm-artifacts/charts/ethadapter-0.7.10.tgz
     version: 0.7.10
-generated: "2022-12-19T22:15:03.6399109+01:00"
+  standalone-quorum:
+  - apiVersion: v2
+    appVersion: 21.10.2
+    created: "2023-02-21T18:07:06.8061707+01:00"
+    description: A Helm chart for a standalone Quorum network adapted from https://github.com/ConsenSys/quorum-kubernetes/tree/master/playground/kubectl/quorum-go/ibft
+    digest: e43b5456452c5beba7753b17a4125e40a1f7b07c20bd9276b8c5b8281b1b2bb6
+    name: standalone-quorum
+    type: application
+    urls:
+    - https://merck-dl.github.io/helm-artifacts/charts/standalone-quorum-0.3.1.tgz
+    version: 0.3.1
+generated: "2023-02-21T18:07:06.7742377+01:00"
